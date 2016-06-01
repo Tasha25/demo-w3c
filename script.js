@@ -1,1 +1,1 @@
-document.getElementById("foot01").innerHTML = "<p>&copy; " + newDate().getFullYear() + "NAACP. All rights reserved </p>";
+document.getElementById("foot01").innerHTML = "<p>&copy; " + new Date().getFullYear() + " NAACP. All rights reserved. </p>";
